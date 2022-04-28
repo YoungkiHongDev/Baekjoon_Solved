@@ -1,4 +1,5 @@
-#백준 3052번 - 나머지
+# 백준 3052번 - 나머지
+# https://www.acmicpc.net/problem/3052
 import sys
 
 nl = []
