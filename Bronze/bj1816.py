@@ -8,7 +8,8 @@ result = "YES"
 
 for _ in range(n):
     num = int(input())
-    
+
+    # 100만 보다 낮은 값이 약수면 NO 출력
     for i in range(2, target+1):
         if num % i == 0:
             result = "NO"
